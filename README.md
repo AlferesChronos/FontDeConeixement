@@ -1,2 +1,2 @@
-# Apunts
-Un repositori on vaig guardant tots els apunts, escrits i picats per mi, siguin del tema que siguin.
+# Font de coneixement
+És repositori on vaig guardant tots els apunts i altres temes que em resultin d'interès, siguin del tema que siguin.
