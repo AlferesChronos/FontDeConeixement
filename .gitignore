@@ -248,3 +248,4 @@ TSWLatexianTemp*
 *.out
 *.synctex
 *.tex
+*.sty
